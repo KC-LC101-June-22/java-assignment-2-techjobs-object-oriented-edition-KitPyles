@@ -111,5 +111,4 @@ public class TestTaskFour extends AbstractTest {
 
         testJobsForEqualityMethod.invoke(jobTest);
     }
-
 }
